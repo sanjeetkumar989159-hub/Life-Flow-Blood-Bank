@@ -7,7 +7,7 @@ const bloodInventory = [
   { type: 'B−',  units: 890,  max: 5000,  status: 'low' },
   { type: 'AB+', units: 4320, max: 7000,  status: 'ok' },
   { type: 'AB−', units: 380,  max: 3000,  status: 'low' },
-  { type: 'O+',  units: 9640, max: 12000, status: 'ok' },
+  { type: 'O+',  units: 9640, max: 12000, status: 'ok' }, 
   { type: 'O−',  units: 510,  max: 8000,  status: 'critical' },
 ];
 
